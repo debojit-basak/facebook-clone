@@ -1,0 +1,8 @@
+.chatList{
+    display: flex;
+    padding: 20px;
+    align-items: center;
+}
+.chatList > h4{
+    margin-left: 15px;
+}
